@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''
-                echo "doing building stage"
+                echo "doing building stuff"
                 '''
             }
         }
